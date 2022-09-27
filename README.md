@@ -1,7 +1,7 @@
-### Olá, Eu sou o Henrique Inacio Silva
+### Olá, Eu sou o Henrique Inácio Silva
 
-- 🔭 Hoje trabalho como auxiliar de desenvolvimento
-- 🌱 Cursando faculdade de analise e desenvolvimento de sistemas e estudando: java, php, html, css, bootstrap, mysql, inglês.
+- 🔭 Hoje trabalho como Auxiliar de Desenvolvimento
+- 🌱 Cursando Faculdade de Analise e Desenvolvimento de Sistemas e estudando: Java, PHP, HTML, CSS, Bootstrap, MySQL, Inglês.
 
 
 <div align="center">
